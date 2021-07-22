@@ -14,3 +14,19 @@ h1{
 h2{
     color: lightblue;
 }
+
+div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin-top: 50px;
+    width: 100%;
+    height: 600px;
+    align-content: center;
+    justify-content: center;
+}
+
+img{
+    width: 400px;
+}
